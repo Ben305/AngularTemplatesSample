@@ -21,8 +21,7 @@ function routeConfig($locationProvider, $stateProvider, $urlRouterProvider) {
       abstract: true,
         views: {
           'main@': {
-            templateUrl: '/packages/layout-package/layout.html',
-            //template: '<div ui-view="content"></div>'
+            templateUrl: '/packages/layout-package/layout.html'
           }
         }
      })
