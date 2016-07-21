@@ -1,0 +1,1 @@
+import LayoutTemplate from './layout.html'

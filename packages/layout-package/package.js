@@ -17,6 +17,7 @@ Package.onUse(function(api) {
   ]);
 
   api.addFiles([
+    'main.js',
     'layout.html'
   ], 'client');
 });
